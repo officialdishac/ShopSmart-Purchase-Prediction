@@ -38,13 +38,4 @@ Since the dataset is imbalanced, **F1-score** is used as the primary evaluation 
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib / Seaborn (if used)
-
-## How to Run the Project
-
-1. Clone the repository
-2. Place the dataset file inside the project folder
-3. Install required libraries:
-(or manually install pandas, numpy, scikit-learn, matplotlib)
-
-4. Run the notebook or Python script
+- Matplotlib
