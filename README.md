@@ -38,4 +38,3 @@ Since the dataset is imbalanced, **F1-score** is used as the primary evaluation 
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
