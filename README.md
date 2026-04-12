@@ -49,8 +49,7 @@ Therefore, the threshold-tuned model was selected as the final model.
 ## 🌐 Deployment
 The model is deployed using Streamlit for real-time predictions.
 
-👉 Live App: (Add your Streamlit link here after deployment)
-
+👉 Live App: https://shopsmart-purchase-prediction.streamlit.app/
 ---
 
 ## 🛠️ Tech Stack
